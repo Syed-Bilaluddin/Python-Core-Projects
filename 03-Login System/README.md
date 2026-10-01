@@ -48,6 +48,35 @@ A production authentication system should use secure password hashing and approp
 * Object-Oriented Programming
 * Text file handling
 
+## Example
+
+```text
+=== LOGIN SYSTEM ===
+
+1. Register
+2. Login
+3. Exit
+
+Enter your choice: 1
+Enter your username: bilal
+Enter password: python123
+
+Registered Successfully
+
+=== LOGIN SYSTEM ===
+
+1. Register
+2. Login
+3. Exit
+
+Enter your choice: 2
+Enter username: bilal
+Enter password: python123
+
+Login Successful
+```
+
+
 ## Purpose
 
 This project was built to practice Object-Oriented Programming, file handling, exception handling, input validation, and basic authentication logic.
