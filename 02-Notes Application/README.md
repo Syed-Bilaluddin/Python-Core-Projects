@@ -44,6 +44,31 @@ Each note contains:
 * `datetime`
 * Text file handling
 
+## Example
+
+```text
+=== NOTES APPLICATION ===
+
+1. Add notes
+2. Views Notes
+3. Search Notes
+4. Delete Notes
+5. Exit
+
+Enter your choice: 1
+Enter note text: Learn Python APIs
+
+ID: 1
+Learn Python APIs
+```
+
+Example of viewing a saved note:
+
+```text
+ID: 1, Learn Python APIs, 2026-10-01 16:30:00
+```
+
+
 ## Purpose
 
 This project was built to practice Object-Oriented Programming, file handling, exception handling, and working with persistent data in a practical command-line application.
