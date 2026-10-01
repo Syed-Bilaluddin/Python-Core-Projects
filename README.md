@@ -107,3 +107,49 @@ Throughout these projects, I practiced:
 ## Purpose
 
 These projects were built as part of my Python learning journey to strengthen programming fundamentals and develop practical command-line applications before moving into APIs, automation, and backend development.
+
+## Project Status
+
+* [x] Bank Account
+* [x] Notes Application
+* [x] Login System
+* [x] Contact Manager
+
+## Setup & Run
+
+### Requirements
+
+* Python 3.x
+* No external libraries required
+
+### Run a Project
+
+Navigate to the project folder and run the Python file.
+
+Example:
+
+```bash
+py BankAccount.py
+```
+
+Other projects can be run in the same way:
+
+```bash
+py NoteClass.py
+py LoginClass.py
+py ContactManager.py
+```
+
+The exact filename may vary depending on the project structure.
+
+### Data Files
+
+Some projects use local files to store data:
+
+* `notes.txt` — Notes Application
+* `users.txt` — Login System
+* `contacts.json` — Contact Manager
+
+These files are created or updated while using the applications.
+
+> **Security Note:** Do not upload real passwords or personal contact information to GitHub. Use dummy/test data or add sensitive data files to `.gitignore`.
